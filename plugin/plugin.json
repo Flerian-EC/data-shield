@@ -1,0 +1,5 @@
+{
+    "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+    "name": "data-shield-plugin",
+    "description": "Plugin para Antigravity CLI que permite la manipulación, limpieza y análisis estadístico de datos mediante ejecución aislada en Jupyter Notebooks (.ipynb) con data-shield-mcp, protegiendo la ventana de contexto del modelo mediante sanitización de datos y gráficos."
+}

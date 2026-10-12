@@ -1,0 +1,67 @@
+{
+  "mcpServers": {
+    "data-shield-mcp": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--project",
+        "/ruta/absoluta/a/data-shield/",
+        "-m",
+        "data_shield_mcp"
+      ],
+      "tools": {
+        "*": {
+          "eager": true
+        },
+        "create_notebook": {
+          "eager": true
+        },
+        "add_and_execute_cell": {
+          "eager": true
+        },
+        "edit_and_execute_cell": {
+          "eager": true
+        },
+        "add_markdown_cell": {
+          "eager": true
+        },
+        "edit_markdown_cell": {
+          "eager": true
+        },
+        "execute_cell": {
+          "eager": true
+        },
+        "read_notebook_status": {
+          "eager": true
+        },
+        "restart_kernel": {
+          "eager": true
+        },
+        "clear_all_outputs": {
+          "eager": true
+        },
+        "delete_cell": {
+          "eager": true
+        },
+        "insert_cell": {
+          "eager": true
+        },
+        "read_cell": {
+          "eager": true
+        },
+        "inspect_memory": {
+          "eager": true
+        },
+        "interrupt_kernel": {
+          "eager": true
+        },
+        "run_scratchpad_code": {
+          "eager": true
+        },
+        "move_cell": {
+          "eager": true
+        }
+      }
+    }
+  }
+}
